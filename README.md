@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JeanlChristophe
-- 👀 I’m interested in Bitcoin
 
 <!---
 JeanlChristophe/JeanlChristophe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
